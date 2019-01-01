@@ -1,0 +1,1 @@
+import { Tabigation } from '../index';

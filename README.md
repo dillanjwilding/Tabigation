@@ -1,2 +1,2 @@
-# tabigation
+# tabigation: React Tab Navigation
 
