@@ -1,21 +1,21 @@
 {
   "compilerOptions": {
     "outDir": "./build",
-    "target": "es5",
-    "module": "commonjs",
     "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
     "removeComments": true,
     "declaration": true,
     "sourceMap": true,
-    "strict": true,
-    "jsx": "react"
+    "strict": true
   },
   "include": [
     "./src/**/*.tsx",
     "./src/**/*.ts"
   ],
   "exclude": [
-    "node_modules",
+    //"node_modules",
     "**/tests/*"
   ]
 }
