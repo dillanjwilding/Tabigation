@@ -51,6 +51,10 @@
     "popper.js": "^1.14.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-router-dom": "^5.0.0"
+    "react-router-dom": "^5.0.0",
+
+    "minimist": "^1.2.5",
+    "serialize-javascript": "^4.0.0",
+    "set-value": "^3.0.2"
   }
 }
