@@ -34,7 +34,7 @@ export default class Tabigation extends React.Component<any, any> {
           <this.state.component {...tabs[active].data} />}
         </div>
       </BrowserRouter>
-    );
+    )
   }
   private change (tab: string) {
     if (this.state.active !== tab && this.props.tabs.hasOwnProperty(tab)) {
