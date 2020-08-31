@@ -1,4 +1,7 @@
+.git*
+.env
 src
+demo
 tsconfig.json
 tslint.json
 .prettierrc

@@ -12,9 +12,10 @@
     "demo": "webpack-dev-server --mode development"
   },
   "keywords": [
-    "tabs",
-    "tab",
-    "navigation"
+    "React",
+    "Tab",
+    "Tabs",
+    "Navigation"
   ],
   "author": "Dillan Wilding",
   "license": "N/A",
