@@ -12,11 +12,19 @@
     "demo": "webpack-dev-server --mode development"
   },
   "keywords": [
-    "React",
-    "Tab",
-    "Tabs",
-    "Navigation"
+    "react",
+    "tab",
+    "tabs",
+    "navigation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillanjwilding/tabigation.git"
+  },
+  "homepage": "https://github.com/dillanjwilding/tabigation#readme",
+  "bugs": {
+    "url": "https://github.com/dillanjwilding/tabigation/issues"
+  },
   "author": "Dillan Wilding",
   "license": "N/A",
   "devDependencies": {
